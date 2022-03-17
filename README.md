@@ -3,7 +3,7 @@ About: Bruno Vanasse
 * Hiker, voyager, retired.
 * Lieutenant-Colonel (Ret'd), Canadian Army Intelligence; Afghanistan and Bosnia veteran with four overseas deployments.
 * Masters in Industrial-Organizational Psychology (M.Ps.) at UQAM, and graduate of the Joint Command & Staff Programme (JCSP) at the Canadian Forces College.
-* Full-time University Faculty (Ret'd), MacEwan University School of Business, and Royal Military College of Canada.
+* Full-time University Faculty (Ret'd), MacEwan University, and Royal Military College of Canada.
 
 * Home Page: https://brunovanasse.github.io
 
