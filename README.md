@@ -1,8 +1,5 @@
 About: Bruno Vanasse
 
-* Explorer, hiker, veteran.
-* University Faculty (Retd), MacEwan University and Royal Military College of Canada.
-* Lieutenant-Colonel (Retd), Canadian Army.
 
 * Home Page: https://brunovanasse.github.io
 
